@@ -71,4 +71,4 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-Jestem inżynierem oprogramowania z ponad 12-letnim doświadczeniem. Tworzę oprogramowanie zgodnie z ideą Software Craftsmanship, pasjonuję się nowymi technologiami i specjalizuję się w programowaniu aplikacji internetowych w Python, Java i PHP. Uwielbiam tematy dotyczące skalowalności i wysokiej dostępności i wierzę w ideę Open Source. Pracowałem dla takich firm jak o2.pl, GG, GoldenLine, BlaBlaCar, VeePee.
+Jestem inżynierem oprogramowania z ponad 12-letnim doświadczeniem. Tworzę oprogramowanie zgodnie z ideą Software Craftsmanship, pasjonuję się nowymi technologiami i specjalizuję się w programowaniu aplikacji internetowych w Go, Python i Java. Uwielbiam tematy dotyczące skalowalności i wysokiej dostępności i wierzę w ideę Open Source. Pracowałem dla takich firm jak o2.pl, GG, GoldenLine, BlaBlaCar, VeePee.
